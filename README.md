@@ -1,5 +1,5 @@
 # Android APP Pincode
-Example of add pincode protection to Android APP when launching or resume.
+Here is an example of add pincode protection to Android APP when launching or resume, in case where certain privacy protection is need for some APPs and the access of their contents.
 
 
 - Call pincode interface:
